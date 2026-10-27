@@ -149,7 +149,7 @@ gnmyflow --version
 ```
 
 Alternatively, use `pipx install gnmyflow==0.3.1`. For a pinned source installation,
-use `uv tool install git+https://github.com/anggi-susanto/gnmyflow@v0.3.1`.
+use `uv tool install git+https://github.com/gunamaya/gnmyflow@v0.3.1`.
 Installing the package does not install Google Chrome, sign you in, or configure MCP.
 
 The primary command is `gnmyflow`. Compatibility aliases `sw` and `studiowright`
@@ -160,7 +160,7 @@ the `studiowright` Python namespace and legacy commands.
 <summary>From a local checkout (for development)</summary>
 
 ```bash
-git clone https://github.com/anggi-susanto/gnmyflow.git
+git clone https://github.com/gunamaya/gnmyflow.git
 cd gnmyflow
 uv sync
 uv tool install --python 3.13 -e .
@@ -177,8 +177,8 @@ uv tool install --python 3.13 -e .
   auto-update.
 - **Command line (PyPI)**: `uv tool upgrade gnmyflow` or `pipx upgrade gnmyflow`.
   Pin a specific version with `uv tool install --force gnmyflow==X.Y.Z`.
-- **Command line (source)**: `uv tool install --force git+https://github.com/anggi-susanto/gnmyflow@vX.Y.Z`
-  with the release you want (see [Releases](https://github.com/anggi-susanto/gnmyflow/releases)).
+- **Command line (source)**: `uv tool install --force git+https://github.com/gunamaya/gnmyflow@vX.Y.Z`
+  with the release you want (see [Releases](https://github.com/gunamaya/gnmyflow/releases)).
 
 ## Quick start
 

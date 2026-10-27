@@ -23,8 +23,8 @@ studiowright = "studiowright.cli:main"
 sw = "studiowright.cli:main"
 
 [project.urls]
-Repository = "https://github.com/anggi-susanto/gnmyflow"
-Issues = "https://github.com/anggi-susanto/gnmyflow/issues"
+Repository = "https://github.com/gunamaya/gnmyflow"
+Issues = "https://github.com/gunamaya/gnmyflow/issues"
 Upstream = "https://github.com/umutkocak/studiowright"
 
 [build-system]

@@ -20,11 +20,6 @@ jobs:
             archive_name: gnmyflow-macos-arm64.tar.gz
             binary_name: gnmyflow
             alias_name: sw
-          - os: macos-13
-            artifact_name: gnmyflow-macos-x86_64
-            archive_name: gnmyflow-macos-x86_64.tar.gz
-            binary_name: gnmyflow
-            alias_name: sw
           - os: ubuntu-latest
             artifact_name: gnmyflow-linux-x86_64
             archive_name: gnmyflow-linux-x86_64.tar.gz
